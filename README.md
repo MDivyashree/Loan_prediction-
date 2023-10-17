@@ -2,11 +2,11 @@
 loan prediction analysis using machine learning and flask.
 
 
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 The main objective of this Project is to compare the Loan Prediction Models made using various algorithms and choose the best one out of them that can shorten the loan approval time and decrease the risk associated with it. It is done by predicting if the loan can be given to that person on the basis of various parameters like credit score, income, age, marital status, gender, etc. The Prediction model not only helps the applicant but also helps the bank by minimizing the risk and reducing the number of defaulters.
 
 
-#CONCEPT DEVELOPMENT
+# CONCEPT DEVELOPMENT
 
 1.Installing Required Libraries. 
 
